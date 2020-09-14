@@ -6,6 +6,8 @@ block_content: 8.9.5
 breakpoint: 8.9.5
 ckeditor: 8.9.5
 config: 8.9.5
+config_filter: 2.1.0
+config_split: 1.5.0
 conflict: 2.0.0-alpha2
 consumers: 1.11.0
 contact: 8.9.5
